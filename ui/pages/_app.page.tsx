@@ -149,7 +149,7 @@ export default function App() {
     setState({ ...state, currentNum });
   }
 
-  return <div className="container text-center">
+  return <div className="container text-center mt-3">
   <div className="row justify-content-md-center">
     <div className="col-sm-4">
       <div className="card">
